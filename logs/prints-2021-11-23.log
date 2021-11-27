@@ -1,0 +1,496 @@
+16:13:19.582 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:13:32.222 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:13:32.373 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 1----------
+16:13:35.143 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on birthday gifts for kids option
+16:13:41.256 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on the harry potter
+16:13:41.770 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding to cart
+16:13:48.034 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:13:53.305 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:13:53.349 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 2----------
+16:13:56.276 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on corporate gifts
+16:13:59.159 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on astro stationery and phone holder
+16:13:59.622 [main] INFO  com.mindtree.testrunner.BigSmallApplication - First review of the product:Sent as a gift. They loved it!
+16:13:59.656 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Add To Wishlist
+16:13:59.773 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added product to wishlist
+16:14:04.142 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:14:13.766 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:14:13.782 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 3----------
+16:14:24.626 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on gift card icon
+16:14:27.233 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The gift card sent is worth:Rs. 40,000
+16:14:33.276 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:14:40.596 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:14:40.602 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 4----------
+16:14:48.454 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on jewellery category
+16:14:48.910 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 7 products in this page which are sold out
+16:14:48.934 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+16:14:48.967 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aster Blue Topaz Earrings
+16:14:48.999 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+16:14:49.032 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mermaid Jewellery Holder 3D Plate
+16:14:49.062 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Harry Potter 9 ¾ Bracelet
+16:14:49.091 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Vera Amethyst Pendant With Chain
+16:14:49.124 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Watermelon Gold Plated Earrings
+16:14:49.124 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 13 exclusive products in this page
+16:14:49.156 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aliya Semi-Precious Pendant With Silver Chain
+16:14:49.189 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Heart Semi-Precious Pendant With Silver Chain
+16:14:49.219 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aurora Semi-Precious Stud Earrings
+16:14:49.250 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moonstone Earring Studs
+16:14:49.279 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+16:14:49.313 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Kapruka Semi Precious Earrings
+16:14:49.346 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chenju Semi-Precious Earrings
+16:14:49.375 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Luna Semi-Precious Stud Earrings
+16:14:49.406 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Semi-Precious Stud Earrings
+16:14:49.439 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moana Gemstone Pendant with With Silver Chain
+16:14:49.469 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Enchanted Gemstone Pendant With Silver Chain
+16:14:49.500 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+16:14:49.525 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+16:14:52.343 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:15:02.238 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:15:02.244 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 5----------
+16:15:07.165 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on luckies of london
+16:15:07.603 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chalkboard Map DIY
+16:15:10.008 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on chalkboard map diy
+16:15:10.417 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 2,200
+16:15:10.429 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 1,799
+16:15:10.440 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 401
+16:15:14.692 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:15:30.901 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:15:30.905 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 6----------
+16:15:41.986 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Star and Moon Curtain LED Lights
+16:15:42.533 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The price of the productRs. 1,099
+16:15:42.598 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Adding to cart
+16:15:44.454 [main] INFO  com.mindtree.testrunner.BigSmallApplication - packing in a gift wrap
+16:15:44.547 [main] INFO  com.mindtree.testrunner.BigSmallApplication - checking out
+16:15:57.626 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added email
+16:15:57.726 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added first name
+16:15:57.846 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added last name
+16:15:57.991 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added address
+16:15:58.126 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added landmark
+16:15:58.268 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added city
+16:16:01.034 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added state
+16:16:01.121 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added pin code
+16:16:01.259 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added contact
+16:16:04.359 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on continue shipping
+16:16:07.107 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:16:22.152 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:16:22.172 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 7----------
+16:16:25.928 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on lapel pins and brooches 
+16:16:28.753 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Harry Potter Characters Metallic Pins
+16:16:30.511 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added harry pin to cart
+16:17:33.078 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:17:37.953 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:17:37.961 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 8----------
+16:17:43.346 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on rakhi link 
+16:17:46.703 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Bhaiya Ciao Rakhi
+16:17:52.972 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:18:02.397 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:18:02.412 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 9----------
+16:18:09.136 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on home decor category
+16:18:12.245 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on bonsai led lights
+16:18:13.372 [main] INFO  com.mindtree.testrunner.BigSmallApplication - review of the product is written
+16:18:17.486 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+16:18:33.070 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+16:18:33.086 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 10----------
+16:18:33.223 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on search box and entered bts
+16:18:41.078 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on bts
+16:18:41.567 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on pink base
+16:18:41.650 [main] INFO  com.mindtree.testrunner.BigSmallApplication - enter postal code
+16:18:42.877 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Cash on Delivery is available.
+17:01:18.899 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:01:27.344 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:01:27.462 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 1----------
+17:01:31.311 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on birthday gifts for kids option
+17:01:40.293 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on the harry potter
+17:01:40.923 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding to cart
+17:01:42.701 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding a gift note
+17:01:46.045 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:01:57.481 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:01:57.492 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 2----------
+17:02:01.825 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on corporate gifts
+17:02:05.475 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on astro stationery and phone holder
+17:02:06.413 [main] INFO  com.mindtree.testrunner.BigSmallApplication - First review of the product:Sent as a gift. They loved it!
+17:02:06.466 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Add To Wishlist
+17:02:06.666 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added product to wishlist
+17:02:11.150 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:02:19.047 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:02:19.062 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 3----------
+17:02:32.885 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on gift card icon
+17:02:36.124 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The gift card sent is worth:Rs. 40,000
+17:02:39.754 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:02:47.793 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:02:47.802 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 4----------
+17:02:51.845 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on jewellery category
+17:02:52.426 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 7 products in this page which are sold out
+17:02:52.495 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+17:02:52.550 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aster Blue Topaz Earrings
+17:02:52.572 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+17:02:52.639 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mermaid Jewellery Holder 3D Plate
+17:02:52.665 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Harry Potter 9 ¾ Bracelet
+17:02:52.714 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Vera Amethyst Pendant With Chain
+17:02:52.755 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Watermelon Gold Plated Earrings
+17:02:52.755 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 13 exclusive products in this page
+17:02:52.836 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aliya Semi-Precious Pendant With Silver Chain
+17:02:52.883 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Heart Semi-Precious Pendant With Silver Chain
+17:02:52.942 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aurora Semi-Precious Stud Earrings
+17:02:52.993 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moonstone Earring Studs
+17:02:53.038 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+17:02:53.081 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Kapruka Semi Precious Earrings
+17:02:53.119 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chenju Semi-Precious Earrings
+17:02:53.174 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Luna Semi-Precious Stud Earrings
+17:02:53.204 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Semi-Precious Stud Earrings
+17:02:53.234 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moana Gemstone Pendant with With Silver Chain
+17:02:53.263 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Enchanted Gemstone Pendant With Silver Chain
+17:02:53.319 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+17:02:53.337 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+17:02:59.479 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:03:10.629 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:03:10.639 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 5----------
+17:03:18.264 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on luckies of london
+17:03:18.837 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chalkboard Map DIY
+17:03:22.308 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on chalkboard map diy
+17:03:22.799 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 2,200
+17:03:22.810 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 1,799
+17:03:22.820 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 401
+17:03:26.168 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:03:35.594 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:03:35.609 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 6----------
+17:03:43.949 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Star and Moon Curtain LED Lights
+17:03:44.638 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The price of the productRs. 1,099
+17:03:44.712 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Adding to cart
+17:03:45.905 [main] INFO  com.mindtree.testrunner.BigSmallApplication - packing in a gift wrap
+17:03:46.006 [main] INFO  com.mindtree.testrunner.BigSmallApplication - checking out
+17:03:58.031 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added email
+17:03:58.130 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added first name
+17:03:58.221 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added last name
+17:03:58.329 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added address
+17:03:58.496 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added landmark
+17:03:58.628 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added city
+17:04:01.621 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added state
+17:04:01.726 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added pin code
+17:04:01.895 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added contact
+17:04:07.205 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on continue shipping
+17:04:11.392 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:04:21.314 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:04:21.324 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 7----------
+17:04:28.055 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on lapel pins and brooches 
+17:04:32.734 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Harry Potter Characters Metallic Pins
+17:04:35.562 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added harry pin to cart
+17:04:44.395 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added minions pin to cart
+17:04:51.822 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:05:02.269 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:05:02.279 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 8----------
+17:05:06.840 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on rakhi link 
+17:05:15.183 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Bhaiya Ciao Rakhi
+17:05:22.652 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:05:35.229 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:05:35.239 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 9----------
+17:05:42.039 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on home decor category
+17:05:47.276 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on bonsai led lights
+17:05:48.728 [main] INFO  com.mindtree.testrunner.BigSmallApplication - review of the product is written
+17:05:53.256 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+17:06:04.447 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+17:06:04.466 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 10----------
+17:06:04.778 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on search box and entered bts
+17:06:14.228 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on bts
+17:06:14.979 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on pink base
+17:06:15.133 [main] INFO  com.mindtree.testrunner.BigSmallApplication - enter postal code
+17:06:16.463 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Cash on Delivery is available.
+20:13:32.040 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:13:41.256 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:13:41.293 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 1----------
+20:13:46.525 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on birthday gifts for kids option
+20:13:55.506 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on the harry potter
+20:13:56.288 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding to cart
+20:13:58.961 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding a gift note
+20:14:02.918 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:14:08.414 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:14:08.424 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 2----------
+20:14:11.341 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on corporate gifts
+20:14:15.403 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on astro stationery and phone holder
+20:14:16.419 [main] INFO  com.mindtree.testrunner.BigSmallApplication - First review of the product:Sent as a gift. They loved it!
+20:14:16.499 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Add To Wishlist
+20:14:22.325 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:14:29.182 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:14:29.197 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 3----------
+20:14:32.834 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on gift card icon
+20:14:35.386 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The gift card sent is worth:Rs. 40,000
+20:14:39.315 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:14:47.143 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:14:47.160 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 4----------
+20:14:51.365 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on jewellery category
+20:14:52.196 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 7 products in this page which are sold out
+20:14:52.268 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+20:14:52.343 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aster Blue Topaz Earrings
+20:14:52.421 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+20:14:52.550 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mermaid Jewellery Holder 3D Plate
+20:14:52.622 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Harry Potter 9 ¾ Bracelet
+20:14:52.708 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Vera Amethyst Pendant With Chain
+20:14:52.810 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Watermelon Gold Plated Earrings
+20:14:52.811 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 13 exclusive products in this page
+20:14:52.897 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aliya Semi-Precious Pendant With Silver Chain
+20:14:52.963 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Heart Semi-Precious Pendant With Silver Chain
+20:14:53.042 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aurora Semi-Precious Stud Earrings
+20:14:53.121 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moonstone Earring Studs
+20:14:53.187 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+20:14:53.261 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Kapruka Semi Precious Earrings
+20:14:53.346 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chenju Semi-Precious Earrings
+20:14:53.427 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Luna Semi-Precious Stud Earrings
+20:14:53.505 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Semi-Precious Stud Earrings
+20:14:53.590 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moana Gemstone Pendant with With Silver Chain
+20:14:53.672 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Enchanted Gemstone Pendant With Silver Chain
+20:14:53.749 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+20:14:53.815 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+20:14:57.425 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:15:03.086 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:15:03.109 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 5----------
+20:15:06.086 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on luckies of london
+20:15:07.212 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chalkboard Map DIY
+20:15:09.516 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on chalkboard map diy
+20:15:10.285 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 2,200
+20:15:10.315 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 1,799
+20:15:10.339 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 401
+20:15:13.740 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:15:19.527 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:15:19.542 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 6----------
+20:15:27.563 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Star and Moon Curtain LED Lights
+20:15:28.466 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The price of the productRs. 1,099
+20:15:28.687 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Adding to cart
+20:15:30.047 [main] INFO  com.mindtree.testrunner.BigSmallApplication - packing in a gift wrap
+20:15:30.314 [main] INFO  com.mindtree.testrunner.BigSmallApplication - checking out
+20:15:47.170 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added email
+20:15:47.335 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added first name
+20:15:47.481 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added last name
+20:15:47.672 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added address
+20:15:47.865 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added landmark
+20:15:48.063 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added city
+20:15:49.249 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added state
+20:15:49.409 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added pin code
+20:15:49.604 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added contact
+20:15:55.719 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on continue shipping
+20:15:59.310 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:16:06.733 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:16:06.790 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 7----------
+20:16:11.198 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on lapel pins and brooches 
+20:16:15.431 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Harry Potter Characters Metallic Pins
+20:16:18.661 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added harry pin to cart
+20:16:55.340 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added minions pin to cart
+20:16:59.187 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:17:07.622 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:17:07.652 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 8----------
+20:17:09.978 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on rakhi link 
+20:36:58.784 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:37:05.702 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:37:05.951 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 1----------
+20:37:15.898 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on birthday gifts for kids option
+20:37:28.104 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on the harry potter
+20:37:28.593 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding to cart
+20:37:34.133 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding a gift note
+20:37:42.362 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:37:50.510 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:37:50.524 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 2----------
+20:37:52.872 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on corporate gifts
+20:37:56.158 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on astro stationery and phone holder
+20:37:56.707 [main] INFO  com.mindtree.testrunner.BigSmallApplication - First review of the product:Sent as a gift. They loved it!
+20:37:56.741 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Add To Wishlist
+20:37:56.866 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added product to wishlist
+20:37:59.832 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:38:06.652 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:38:06.670 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 3----------
+20:38:08.913 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on gift card icon
+20:38:11.111 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The gift card sent is worth:Rs. 40,000
+20:38:17.162 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:38:26.565 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:38:26.582 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 4----------
+20:38:29.585 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on jewellery category
+20:38:30.245 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 7 products in this page which are sold out
+20:38:30.302 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+20:38:30.369 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aster Blue Topaz Earrings
+20:38:30.393 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+20:38:30.440 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mermaid Jewellery Holder 3D Plate
+20:38:30.504 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Harry Potter 9 ¾ Bracelet
+20:38:30.552 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Vera Amethyst Pendant With Chain
+20:38:30.593 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Watermelon Gold Plated Earrings
+20:38:30.593 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 13 exclusive products in this page
+20:38:30.637 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aliya Semi-Precious Pendant With Silver Chain
+20:38:30.671 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Heart Semi-Precious Pendant With Silver Chain
+20:38:30.695 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aurora Semi-Precious Stud Earrings
+20:38:30.725 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moonstone Earring Studs
+20:38:30.753 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+20:38:30.804 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Kapruka Semi Precious Earrings
+20:38:30.876 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chenju Semi-Precious Earrings
+20:38:30.915 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Luna Semi-Precious Stud Earrings
+20:38:30.962 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Semi-Precious Stud Earrings
+20:38:30.992 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moana Gemstone Pendant with With Silver Chain
+20:38:31.039 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Enchanted Gemstone Pendant With Silver Chain
+20:38:31.073 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+20:38:31.113 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+20:38:33.844 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:38:40.641 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:38:40.664 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 5----------
+20:38:43.987 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on luckies of london
+20:38:44.653 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Harry Potter Hedwig Post Cards - Pack of 5
+20:38:46.737 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on chalkboard map diy
+20:41:46.325 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:41:55.527 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:41:55.540 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 6----------
+20:42:06.200 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Star and Moon Curtain LED Lights
+20:42:06.712 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The price of the productRs. 1,099
+20:42:06.784 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Adding to cart
+20:42:08.107 [main] INFO  com.mindtree.testrunner.BigSmallApplication - packing in a gift wrap
+20:42:08.224 [main] INFO  com.mindtree.testrunner.BigSmallApplication - checking out
+20:42:20.253 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added email
+20:42:20.351 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added first name
+20:42:20.476 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added last name
+20:42:20.643 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added address
+20:42:20.769 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added landmark
+20:42:20.924 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added city
+20:42:22.146 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added state
+20:42:22.230 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added pin code
+20:42:22.349 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added contact
+20:42:26.318 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on continue shipping
+20:42:29.801 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:42:39.922 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:42:39.947 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 7----------
+20:42:43.068 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on lapel pins and brooches 
+20:42:46.499 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Harry Potter Characters Metallic Pins
+20:42:48.360 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added harry pin to cart
+20:43:28.464 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added minions pin to cart
+20:43:31.359 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:43:41.689 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:43:41.696 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 8----------
+20:43:43.602 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on rakhi link 
+20:43:51.807 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Bhaiya Ciao Rakhi
+20:43:57.044 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:44:13.073 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:44:13.079 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 9----------
+20:44:18.984 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on home decor category
+20:44:22.003 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on bonsai led lights
+20:44:23.562 [main] INFO  com.mindtree.testrunner.BigSmallApplication - review of the product is written
+20:44:27.046 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:44:32.689 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:44:32.699 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 10----------
+20:44:32.972 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on search box and entered bts
+20:44:38.595 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on bts
+20:44:39.037 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on pink base
+20:44:39.167 [main] INFO  com.mindtree.testrunner.BigSmallApplication - enter postal code
+20:44:40.959 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Cash on Delivery is available.
+20:50:04.743 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:50:11.671 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:50:11.707 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 1----------
+20:50:19.710 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on birthday gifts for kids option
+20:50:33.844 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on the harry potter
+20:50:34.506 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding to cart
+20:50:36.303 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding a gift note
+20:50:41.833 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:50:48.245 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:50:48.262 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 2----------
+20:50:50.959 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on corporate gifts
+20:50:53.628 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on astro stationery and phone holder
+20:50:54.150 [main] INFO  com.mindtree.testrunner.BigSmallApplication - First review of the product:Sent as a gift. They loved it!
+20:50:54.184 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Add To Wishlist
+20:51:01.001 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:51:20.922 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:51:20.931 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 3----------
+20:51:24.254 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on gift card icon
+20:51:26.400 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The gift card sent is worth:Rs. 40,000
+20:51:30.080 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:51:42.978 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:51:42.994 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 4----------
+20:51:46.580 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on jewellery category
+20:51:46.954 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 7 products in this page which are sold out
+20:51:47.001 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+20:51:47.085 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aster Blue Topaz Earrings
+20:51:47.141 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+20:51:47.199 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mermaid Jewellery Holder 3D Plate
+20:51:47.220 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Harry Potter 9 ¾ Bracelet
+20:51:47.262 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Vera Amethyst Pendant With Chain
+20:51:47.283 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Watermelon Gold Plated Earrings
+20:51:47.283 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 13 exclusive products in this page
+20:51:47.345 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aliya Semi-Precious Pendant With Silver Chain
+20:51:47.389 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Heart Semi-Precious Pendant With Silver Chain
+20:51:47.443 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Aurora Semi-Precious Stud Earrings
+20:51:47.490 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moonstone Earring Studs
+20:51:47.519 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
+20:51:47.556 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Kapruka Semi Precious Earrings
+20:51:47.587 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chenju Semi-Precious Earrings
+20:51:47.626 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Luna Semi-Precious Stud Earrings
+20:51:47.674 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Semi-Precious Stud Earrings
+20:51:47.736 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Moana Gemstone Pendant with With Silver Chain
+20:51:47.787 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Enchanted Gemstone Pendant With Silver Chain
+20:51:47.824 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+20:51:47.855 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Araliya Semi-Precious Earring Studs
+20:51:50.690 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:51:56.809 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:51:56.826 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 5----------
+20:51:59.316 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on luckies of london
+20:51:59.833 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Chalkboard Map DIY
+20:52:03.692 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on chalkboard map diy
+20:52:04.085 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 2,200
+20:52:04.117 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 1,799
+20:52:04.130 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Rs. 401
+20:52:08.419 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:52:15.380 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:52:15.398 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 6----------
+20:52:31.329 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Star and Moon Curtain LED Lights
+20:52:31.873 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The price of the productRs. 1,099
+20:52:31.976 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Adding to cart
+20:52:33.332 [main] INFO  com.mindtree.testrunner.BigSmallApplication - packing in a gift wrap
+20:52:33.451 [main] INFO  com.mindtree.testrunner.BigSmallApplication - checking out
+20:52:54.436 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added email
+20:52:54.562 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added first name
+20:52:54.651 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added last name
+20:52:54.804 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added address
+20:52:54.977 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added landmark
+20:52:55.169 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added city
+20:53:00.076 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added state
+20:53:00.232 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added pin code
+20:53:00.571 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added contact
+20:53:11.176 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on continue shipping
+20:53:15.122 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:53:32.900 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:53:32.919 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 7----------
+20:53:44.271 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on lapel pins and brooches 
+20:54:08.756 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Harry Potter Characters Metallic Pins
+20:54:13.299 [main] INFO  com.mindtree.testrunner.BigSmallApplication - added harry pin to cart
+20:55:09.461 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:55:29.013 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:55:29.036 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 8----------
+20:55:34.522 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on rakhi link 
+20:55:42.880 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on Bhaiya Ciao Rakhi
+20:55:56.325 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:56:14.751 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:56:14.769 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 9----------
+20:56:25.160 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on home decor category
+20:56:29.874 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on bonsai led lights
+20:56:31.313 [main] INFO  com.mindtree.testrunner.BigSmallApplication - review of the product is written
+20:56:34.379 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:56:43.626 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:56:43.635 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 10----------
+20:56:44.317 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on search box and entered bts
+20:56:49.524 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on bts
+20:56:49.869 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on pink base
+20:56:50.000 [main] INFO  com.mindtree.testrunner.BigSmallApplication - enter postal code
+20:56:51.339 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Cash on Delivery is available.
+20:58:39.541 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+20:58:46.936 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+20:58:46.965 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 1----------
+20:58:55.701 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on birthday gifts for kids option
+20:59:13.672 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on the harry potter
+20:59:19.049 [main] INFO  com.mindtree.testrunner.BigSmallApplication - adding to cart
+21:00:14.408 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+21:00:51.384 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+21:00:51.401 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 2----------
+21:01:06.071 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on corporate gifts
+21:01:17.242 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on astro stationery and phone holder
+21:01:17.907 [main] INFO  com.mindtree.testrunner.BigSmallApplication - First review of the product:Sent as a gift. They loved it!
+21:01:18.100 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Add To Wishlist
+21:01:22.996 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+21:01:43.937 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+21:01:43.955 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 3----------
+21:01:50.259 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on gift card icon
+21:01:52.810 [main] INFO  com.mindtree.testrunner.BigSmallApplication - The gift card sent is worth:Rs. 40,000
+21:01:57.090 [main] INFO  com.mindtree.testrunner.BigSmallApplication - opening the browser
+21:02:03.700 [main] INFO  com.mindtree.testrunner.BigSmallApplication - navigated to the site
+21:02:03.716 [main] INFO  com.mindtree.testrunner.BigSmallApplication - ----------Test Case 4----------
+21:02:09.219 [main] INFO  com.mindtree.testrunner.BigSmallApplication - clicked on jewellery category
+21:02:09.766 [main] INFO  com.mindtree.testrunner.BigSmallApplication - There are 7 products in this page which are sold out
+21:02:09.805 [main] INFO  com.mindtree.testrunner.BigSmallApplication - Mirissa Blue Topaz Gemstone Bracelet
