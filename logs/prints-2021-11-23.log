@@ -1,0 +1,514 @@
+15:57:38.126 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 1----------
+15:57:38.130 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+15:57:46.062 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+15:57:52.014 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on birthday gifts for kids option
+15:57:59.201 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on the harry potter
+15:57:59.659 [main] INFO  com.mindtree.stepdefinitions.Jewellery - adding to cart
+15:58:02.328 [main] INFO  com.mindtree.stepdefinitions.Jewellery - adding a gift note
+15:58:06.900 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 2----------
+15:58:06.900 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+15:58:22.165 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+15:58:25.008 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on corporate gifts
+15:58:28.252 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on astro stationery and phone holder
+15:58:28.706 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - First review of the product:Sent as a gift. They loved it!
+15:58:28.768 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Add To Wishlist
+15:58:28.881 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - added product to wishlist
+15:58:32.068 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 3----------
+15:58:32.069 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+15:58:41.346 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+15:58:47.396 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on gift card icon
+15:58:49.667 [main] INFO  com.mindtree.stepdefinitions.NewProduct - The gift card sent is worth:Rs. 40,000
+15:58:52.483 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 4----------
+15:58:52.483 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+15:59:03.105 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+15:59:13.395 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on jewellery category
+15:59:14.270 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 7 products in this page which are sold out
+15:59:14.315 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+15:59:14.358 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aster Blue Topaz Earrings
+15:59:14.401 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+15:59:14.448 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mermaid Jewellery Holder 3D Plate
+15:59:14.498 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Harry Potter 9 ¾ Bracelet
+15:59:14.545 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Vera Amethyst Pendant With Chain
+15:59:14.594 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Watermelon Gold Plated Earrings
+15:59:14.594 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 13 exclusive products in this page
+15:59:14.631 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aliya Semi-Precious Pendant With Silver Chain
+15:59:14.662 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Heart Semi-Precious Pendant With Silver Chain
+15:59:14.701 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aurora Semi-Precious Stud Earrings
+15:59:14.750 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moonstone Earring Studs
+15:59:14.800 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+15:59:14.828 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Kapruka Semi Precious Earrings
+15:59:14.860 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Chenju Semi-Precious Earrings
+15:59:14.893 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Luna Semi-Precious Stud Earrings
+15:59:14.925 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Semi-Precious Stud Earrings
+15:59:14.957 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moana Gemstone Pendant with With Silver Chain
+15:59:14.988 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Enchanted Gemstone Pendant With Silver Chain
+15:59:15.017 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+15:59:15.043 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+15:59:21.665 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 5----------
+15:59:21.665 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+15:59:43.955 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+15:59:48.514 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on luckies of london
+15:59:49.149 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Chalkboard Map DIY
+15:59:55.765 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on chalkboard map diy
+15:59:56.313 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 2,200
+15:59:56.324 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 1,799
+15:59:56.335 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 401
+16:00:00.771 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 6----------
+16:00:00.771 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:00:13.396 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:00:17.479 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on whats new
+16:00:22.008 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Star and Moon Curtain LED Lights
+16:00:22.569 [main] INFO  com.mindtree.stepdefinitions.NewProduct - The price of the productRs. 1,099
+16:00:22.653 [main] INFO  com.mindtree.stepdefinitions.NewProduct - Adding to cart
+16:00:23.882 [main] INFO  com.mindtree.stepdefinitions.NewProduct - packing in a gift wrap
+16:00:24.017 [main] INFO  com.mindtree.stepdefinitions.NewProduct - checking out
+16:00:39.594 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added email
+16:00:39.716 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added first name
+16:00:39.814 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added last name
+16:00:39.940 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added address
+16:00:40.090 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added landmark
+16:00:40.251 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added city
+16:00:40.724 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added state
+16:00:40.813 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added pin code
+16:00:40.929 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added contact
+16:00:44.197 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on continue shipping
+16:00:48.128 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 7----------
+16:00:48.128 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:01:00.634 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:01:05.276 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on lapel pins and brooches 
+16:01:09.126 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Harry Potter Characters Metallic Pins
+16:01:10.715 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added harry pin to cart
+16:01:51.548 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 8----------
+16:01:51.549 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:01:57.545 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:01:59.938 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on rakhi link 
+16:02:02.845 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Bhaiya Ciao Rakhi
+16:02:07.386 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 9----------
+16:02:07.386 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+16:02:13.290 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+16:02:17.236 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on home decor category
+16:02:20.055 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on bonsai led lights
+16:02:21.334 [main] INFO  com.mindtree.stepdefinitions.Jewellery - review of the product is written
+16:02:24.017 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 10----------
+16:02:24.017 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+16:02:30.106 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+16:02:30.367 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on search box and entered bts
+16:02:44.567 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on bts
+16:02:45.053 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on pink base
+16:02:45.185 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - enter postal code
+16:02:46.420 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Cash on Delivery is available.
+16:06:04.859 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 1----------
+16:06:04.870 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+16:06:18.710 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+16:06:23.025 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on birthday gifts for kids option
+16:06:34.548 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on the harry potter
+16:06:35.039 [main] INFO  com.mindtree.stepdefinitions.Jewellery - adding to cart
+16:06:39.277 [main] INFO  com.mindtree.stepdefinitions.Jewellery - adding a gift note
+16:06:43.205 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 2----------
+16:06:43.205 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+16:06:52.974 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+16:06:59.410 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on corporate gifts
+16:07:04.722 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on astro stationery and phone holder
+16:07:05.260 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - First review of the product:Sent as a gift. They loved it!
+16:07:05.300 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Add To Wishlist
+16:07:05.433 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - added product to wishlist
+16:07:11.398 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 3----------
+16:07:11.398 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:07:28.736 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:07:32.172 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on gift card icon
+16:07:34.397 [main] INFO  com.mindtree.stepdefinitions.NewProduct - The gift card sent is worth:Rs. 40,000
+16:07:37.245 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 4----------
+16:07:37.246 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+16:07:47.836 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+16:07:51.424 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on jewellery category
+16:07:51.995 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 7 products in this page which are sold out
+16:07:52.037 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+16:07:52.091 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aster Blue Topaz Earrings
+16:07:52.122 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+16:07:52.153 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mermaid Jewellery Holder 3D Plate
+16:07:52.184 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Harry Potter 9 ¾ Bracelet
+16:07:52.215 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Vera Amethyst Pendant With Chain
+16:07:52.246 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Watermelon Gold Plated Earrings
+16:07:52.246 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 13 exclusive products in this page
+16:07:52.298 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aliya Semi-Precious Pendant With Silver Chain
+16:07:52.325 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Heart Semi-Precious Pendant With Silver Chain
+16:07:52.362 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aurora Semi-Precious Stud Earrings
+16:07:52.389 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moonstone Earring Studs
+16:07:52.415 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+16:07:52.456 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Kapruka Semi Precious Earrings
+16:07:52.484 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Chenju Semi-Precious Earrings
+16:07:52.515 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Luna Semi-Precious Stud Earrings
+16:07:52.545 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Semi-Precious Stud Earrings
+16:07:52.575 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moana Gemstone Pendant with With Silver Chain
+16:07:52.626 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Enchanted Gemstone Pendant With Silver Chain
+16:07:52.656 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+16:07:52.680 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+16:07:55.297 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 5----------
+16:07:55.297 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+16:08:05.474 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+16:08:07.987 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on luckies of london
+16:08:08.584 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Chalkboard Map DIY
+16:08:10.688 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on chalkboard map diy
+16:08:10.977 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 2,200
+16:08:10.989 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 1,799
+16:08:11.001 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 401
+16:08:13.855 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 6----------
+16:08:13.855 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:08:23.458 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:08:25.364 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on whats new
+16:08:31.718 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Star and Moon Curtain LED Lights
+16:08:32.342 [main] INFO  com.mindtree.stepdefinitions.NewProduct - The price of the productRs. 1,099
+16:08:32.438 [main] INFO  com.mindtree.stepdefinitions.NewProduct - Adding to cart
+16:08:34.178 [main] INFO  com.mindtree.stepdefinitions.NewProduct - packing in a gift wrap
+16:08:34.281 [main] INFO  com.mindtree.stepdefinitions.NewProduct - checking out
+16:08:51.855 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added email
+16:08:51.967 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added first name
+16:08:52.075 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added last name
+16:08:52.221 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added address
+16:08:52.355 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added landmark
+16:08:52.471 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added city
+16:08:52.864 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added state
+16:08:52.949 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added pin code
+16:08:53.076 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added contact
+16:08:57.619 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on continue shipping
+16:09:01.371 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 7----------
+16:09:01.371 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:09:15.563 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:09:19.563 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on lapel pins and brooches 
+16:09:22.900 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Harry Potter Characters Metallic Pins
+16:09:24.397 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added harry pin to cart
+16:10:40.689 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added minions pin to cart
+16:10:46.400 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 8----------
+16:10:46.400 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:10:59.262 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:11:02.134 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on rakhi link 
+16:11:04.875 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Bhaiya Ciao Rakhi
+16:11:08.496 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 9----------
+16:11:08.496 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+16:11:21.607 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+16:11:25.967 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on home decor category
+16:11:29.864 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on bonsai led lights
+16:11:31.168 [main] INFO  com.mindtree.stepdefinitions.Jewellery - review of the product is written
+16:11:34.754 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 10----------
+16:11:34.754 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+16:11:48.725 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+16:11:48.873 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on search box and entered bts
+16:11:55.108 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on bts
+16:11:55.559 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on pink base
+16:11:55.726 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - enter postal code
+16:11:56.998 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Cash on Delivery is available.
+16:37:19.089 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 1----------
+16:37:19.268 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+16:37:32.608 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+16:37:37.232 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on birthday gifts for kids option
+16:37:44.717 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on the harry potter
+16:37:45.192 [main] INFO  com.mindtree.stepdefinitions.Jewellery - adding to cart
+16:37:47.148 [main] INFO  com.mindtree.stepdefinitions.Jewellery - adding a gift note
+16:37:52.367 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 2----------
+16:37:52.367 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+16:38:00.146 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+16:38:06.149 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on corporate gifts
+16:38:11.023 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on astro stationery and phone holder
+16:38:11.470 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - First review of the product:Sent as a gift. They loved it!
+16:38:11.502 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Add To Wishlist
+16:38:14.896 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 3----------
+16:38:14.896 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:38:28.600 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:38:36.422 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on gift card icon
+16:38:41.360 [main] INFO  com.mindtree.stepdefinitions.NewProduct - The gift card sent is worth:Rs. 40,000
+16:38:46.859 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 4----------
+16:38:46.859 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+16:38:55.170 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+16:38:58.190 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on jewellery category
+16:39:01.224 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 7 products in this page which are sold out
+16:39:01.250 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+16:39:01.293 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aster Blue Topaz Earrings
+16:39:01.334 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+16:39:01.373 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mermaid Jewellery Holder 3D Plate
+16:39:01.404 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Harry Potter 9 ¾ Bracelet
+16:39:01.450 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Vera Amethyst Pendant With Chain
+16:39:01.486 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Watermelon Gold Plated Earrings
+16:39:01.486 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 13 exclusive products in this page
+16:39:01.519 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aliya Semi-Precious Pendant With Silver Chain
+16:39:01.544 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Heart Semi-Precious Pendant With Silver Chain
+16:39:01.589 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aurora Semi-Precious Stud Earrings
+16:39:01.635 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moonstone Earring Studs
+16:39:01.674 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+16:39:01.700 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Kapruka Semi Precious Earrings
+16:39:01.728 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Chenju Semi-Precious Earrings
+16:39:01.771 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Luna Semi-Precious Stud Earrings
+16:39:01.814 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Semi-Precious Stud Earrings
+16:39:01.859 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moana Gemstone Pendant with With Silver Chain
+16:39:01.918 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Enchanted Gemstone Pendant With Silver Chain
+16:39:01.946 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+16:39:01.979 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+16:39:06.189 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 5----------
+16:39:06.189 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+16:39:15.754 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+16:39:21.022 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on luckies of london
+16:39:24.009 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Chalkboard Map DIY
+16:39:26.851 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on chalkboard map diy
+16:39:27.461 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 2,200
+16:39:27.476 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 1,799
+16:39:27.487 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Rs. 401
+16:39:33.156 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 6----------
+16:39:33.157 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:39:39.703 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:39:42.075 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on whats new
+16:39:45.524 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Star and Moon Curtain LED Lights
+16:39:46.038 [main] INFO  com.mindtree.stepdefinitions.NewProduct - The price of the productRs. 1,099
+16:39:46.113 [main] INFO  com.mindtree.stepdefinitions.NewProduct - Adding to cart
+16:39:47.316 [main] INFO  com.mindtree.stepdefinitions.NewProduct - packing in a gift wrap
+16:39:47.864 [main] INFO  com.mindtree.stepdefinitions.NewProduct - checking out
+16:40:05.944 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added email
+16:40:06.038 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added first name
+16:40:06.149 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added last name
+16:40:06.269 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added address
+16:40:06.385 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added landmark
+16:40:06.515 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added city
+16:40:06.994 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added state
+16:40:07.083 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added pin code
+16:40:07.205 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added contact
+16:40:10.596 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on continue shipping
+16:40:15.191 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 7----------
+16:40:15.191 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:40:25.614 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:40:28.926 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on lapel pins and brooches 
+16:40:32.306 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Harry Potter Characters Metallic Pins
+16:40:33.937 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added harry pin to cart
+16:41:18.837 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added minions pin to cart
+16:41:24.605 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 8----------
+16:41:24.605 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+16:41:39.815 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+16:41:42.317 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on rakhi link 
+16:41:46.553 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Bhaiya Ciao Rakhi
+16:41:50.045 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 9----------
+16:41:50.045 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+16:41:57.358 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+16:42:00.516 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on home decor category
+16:42:04.258 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on bonsai led lights
+16:42:05.537 [main] INFO  com.mindtree.stepdefinitions.Jewellery - review of the product is written
+16:42:08.108 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 10----------
+16:42:08.108 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+16:42:17.671 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+16:42:17.853 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on search box and entered bts
+16:42:23.247 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on bts
+16:42:24.037 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on pink base
+16:42:24.159 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - enter postal code
+16:42:25.397 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Cash on Delivery is available.
+20:01:07.089 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - ----------Test Case 1----------
+20:01:07.121 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - opening the browser
+20:01:13.632 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - navigated to the site
+20:01:17.561 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - clicked on birthday gifts for kids option
+20:01:27.172 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - clicked on the harry potter
+20:01:28.264 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - adding to cart
+20:01:30.457 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - adding a gift note
+20:01:36.125 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 2----------
+20:01:36.125 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+20:01:42.141 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+20:01:45.451 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on corporate gifts
+20:01:48.711 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on astro stationery and phone holder
+20:01:49.655 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - First review of the product:Sent as a gift. They loved it!
+20:01:49.808 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Add To Wishlist
+20:01:49.994 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - added product to wishlist
+20:01:53.859 [main] INFO  com.mindtree.stepdefinitions.Giftcard - ----------Test Case 3----------
+20:01:53.859 [main] INFO  com.mindtree.stepdefinitions.Giftcard - opening the browser
+20:02:03.355 [main] INFO  com.mindtree.stepdefinitions.Giftcard - navigates to the site
+20:02:07.877 [main] INFO  com.mindtree.stepdefinitions.Giftcard - clicked on gift card icon
+20:02:10.984 [main] INFO  com.mindtree.stepdefinitions.Giftcard - The gift card sent is worth:Rs. 40,000
+20:02:14.658 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 4----------
+20:02:14.658 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+20:02:22.657 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+20:02:27.550 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on jewellery category
+20:02:28.378 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 7 products in this page which are sold out
+20:02:28.461 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+20:02:28.542 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aster Blue Topaz Earrings
+20:02:28.614 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+20:02:28.697 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mermaid Jewellery Holder 3D Plate
+20:02:28.771 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Harry Potter 9 ¾ Bracelet
+20:02:28.848 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Vera Amethyst Pendant With Chain
+20:02:28.927 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Watermelon Gold Plated Earrings
+20:02:28.928 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 13 exclusive products in this page
+20:02:29.006 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aliya Semi-Precious Pendant With Silver Chain
+20:02:29.092 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Heart Semi-Precious Pendant With Silver Chain
+20:02:29.162 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aurora Semi-Precious Stud Earrings
+20:02:29.305 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moonstone Earring Studs
+20:02:29.360 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+20:02:29.445 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Kapruka Semi Precious Earrings
+20:02:29.523 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Chenju Semi-Precious Earrings
+20:02:29.597 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Luna Semi-Precious Stud Earrings
+20:02:29.672 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Semi-Precious Stud Earrings
+20:02:29.746 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moana Gemstone Pendant with With Silver Chain
+20:02:29.816 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Enchanted Gemstone Pendant With Silver Chain
+20:02:29.894 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+20:02:29.966 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+20:02:33.278 [main] INFO  com.mindtree.stepdefinitions.London - ----------Test Case 5----------
+20:02:33.278 [main] INFO  com.mindtree.stepdefinitions.London - opening the browser
+20:02:38.210 [main] INFO  com.mindtree.stepdefinitions.London - navigated to the site
+20:02:41.792 [main] INFO  com.mindtree.stepdefinitions.London - clicked on luckies of london
+20:02:42.574 [main] INFO  com.mindtree.stepdefinitions.London - Chalkboard Map DIY
+20:02:46.282 [main] INFO  com.mindtree.stepdefinitions.London - clicked on chalkboard map diy
+20:02:47.045 [main] INFO  com.mindtree.stepdefinitions.London - Rs. 2,200
+20:02:47.086 [main] INFO  com.mindtree.stepdefinitions.London - Rs. 1,799
+20:02:47.124 [main] INFO  com.mindtree.stepdefinitions.London - Rs. 401
+20:02:50.435 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 6----------
+20:02:50.435 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+20:02:56.345 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+20:02:59.103 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on whats new
+20:03:04.135 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Star and Moon Curtain LED Lights
+20:03:05.134 [main] INFO  com.mindtree.stepdefinitions.NewProduct - The price of the productRs. 1,099
+20:03:05.318 [main] INFO  com.mindtree.stepdefinitions.NewProduct - Adding to cart
+20:03:06.713 [main] INFO  com.mindtree.stepdefinitions.NewProduct - packing in a gift wrap
+20:03:06.989 [main] INFO  com.mindtree.stepdefinitions.NewProduct - checking out
+20:03:16.651 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added email
+20:03:16.881 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added first name
+20:03:17.107 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added last name
+20:03:17.383 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added address
+20:03:17.771 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added landmark
+20:03:18.053 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added city
+20:03:18.929 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added state
+20:03:19.143 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added pin code
+20:03:19.415 [main] INFO  com.mindtree.stepdefinitions.NewProduct - added contact
+20:03:26.184 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on continue shipping
+20:03:30.075 [main] INFO  com.mindtree.stepdefinitions.Pins - ----------Test Case 7----------
+20:03:30.076 [main] INFO  com.mindtree.stepdefinitions.Pins - opening the browser
+20:03:37.863 [main] INFO  com.mindtree.stepdefinitions.Pins - navigates to the site
+20:03:41.894 [main] INFO  com.mindtree.stepdefinitions.Pins - clicked on lapel pins and brooches 
+20:03:45.578 [main] INFO  com.mindtree.stepdefinitions.Pins - clicked on Harry Potter Characters Metallic Pins
+20:03:47.641 [main] INFO  com.mindtree.stepdefinitions.Pins - added harry pin to cart
+20:08:42.835 [main] INFO  com.mindtree.stepdefinitions.Rakhi - ----------Test Case 8----------
+20:08:42.835 [main] INFO  com.mindtree.stepdefinitions.Rakhi - opening the browser
+20:08:48.484 [main] INFO  com.mindtree.stepdefinitions.Rakhi - navigates to the site
+20:08:52.249 [main] INFO  com.mindtree.stepdefinitions.Rakhi - clicked on rakhi link 
+20:08:59.879 [main] INFO  com.mindtree.stepdefinitions.Rakhi - clicked on Bhaiya Ciao Rakhi
+20:09:05.388 [main] INFO  com.mindtree.stepdefinitions.Review - ----------Test Case 9----------
+20:09:05.388 [main] INFO  com.mindtree.stepdefinitions.Review - opening the browser
+20:09:11.594 [main] INFO  com.mindtree.stepdefinitions.Review - navigated to the site
+20:09:15.285 [main] INFO  com.mindtree.stepdefinitions.Review - clicked on home decor category
+20:09:19.785 [main] INFO  com.mindtree.stepdefinitions.Review - clicked on bonsai led lights
+20:09:21.717 [main] INFO  com.mindtree.stepdefinitions.Review - review of the product is written
+20:09:25.163 [main] INFO  com.mindtree.stepdefinitions.Search - ----------Test Case 10----------
+20:09:25.163 [main] INFO  com.mindtree.stepdefinitions.Search - opening the browser
+20:09:33.651 [main] INFO  com.mindtree.stepdefinitions.Search - navigated to the site
+20:09:34.031 [main] INFO  com.mindtree.stepdefinitions.Search - clicked on search box and entered bts
+20:09:40.311 [main] INFO  com.mindtree.stepdefinitions.Search - clicked on bts
+20:09:41.097 [main] INFO  com.mindtree.stepdefinitions.Search - clicked on pink base
+20:09:41.402 [main] INFO  com.mindtree.stepdefinitions.Search - enter postal code
+20:09:42.951 [main] INFO  com.mindtree.stepdefinitions.Search - Cash on Delivery is available.
+20:20:44.520 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - ----------Test Case 1----------
+20:20:44.597 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - opening the browser
+20:20:54.658 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - navigated to the site
+20:20:59.243 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - clicked on birthday gifts for kids option
+20:21:07.417 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - clicked on the harry potter
+20:21:08.167 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - adding to cart
+20:21:10.640 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - adding a gift note
+20:21:14.840 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 2----------
+20:21:14.840 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+20:21:24.991 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+20:21:27.402 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on corporate gifts
+20:21:30.677 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on astro stationery and phone holder
+20:21:31.459 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - First review of the product:Sent as a gift. They loved it!
+20:21:31.517 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Add To Wishlist
+20:21:31.679 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - added product to wishlist
+20:21:36.787 [main] INFO  com.mindtree.stepdefinitions.Giftcard - ----------Test Case 3----------
+20:21:36.787 [main] INFO  com.mindtree.stepdefinitions.Giftcard - opening the browser
+20:21:42.943 [main] INFO  com.mindtree.stepdefinitions.Giftcard - navigates to the site
+20:21:46.160 [main] INFO  com.mindtree.stepdefinitions.Giftcard - clicked on gift card icon
+20:21:49.332 [main] INFO  com.mindtree.stepdefinitions.Giftcard - The gift card sent is worth:Rs. 40,000
+20:21:53.519 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 4----------
+20:21:53.519 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+20:22:02.046 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+20:22:06.599 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on jewellery category
+20:22:07.404 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 7 products in this page which are sold out
+20:22:07.524 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+20:22:07.617 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aster Blue Topaz Earrings
+20:22:07.711 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+20:22:07.822 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mermaid Jewellery Holder 3D Plate
+20:22:07.918 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Harry Potter 9 ¾ Bracelet
+20:22:07.988 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Vera Amethyst Pendant With Chain
+20:22:08.067 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Watermelon Gold Plated Earrings
+20:22:08.067 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 13 exclusive products in this page
+20:22:08.099 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aliya Semi-Precious Pendant With Silver Chain
+20:22:08.132 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Heart Semi-Precious Pendant With Silver Chain
+20:22:08.203 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aurora Semi-Precious Stud Earrings
+20:22:08.270 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moonstone Earring Studs
+20:22:08.327 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+20:22:08.384 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Kapruka Semi Precious Earrings
+20:22:08.447 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Chenju Semi-Precious Earrings
+20:22:08.511 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Luna Semi-Precious Stud Earrings
+20:22:08.602 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Semi-Precious Stud Earrings
+20:22:08.667 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moana Gemstone Pendant with With Silver Chain
+20:22:08.728 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Enchanted Gemstone Pendant With Silver Chain
+20:22:08.789 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Starfish Aquamarine Semi-Precious Pendant With Silver Chain
+20:22:08.836 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+20:22:11.897 [main] INFO  com.mindtree.stepdefinitions.London - ----------Test Case 5----------
+20:22:11.897 [main] INFO  com.mindtree.stepdefinitions.London - opening the browser
+20:22:22.300 [main] INFO  com.mindtree.stepdefinitions.NewProduct - ----------Test Case 6----------
+20:22:22.300 [main] INFO  com.mindtree.stepdefinitions.NewProduct - opening the browser
+20:22:32.279 [main] INFO  com.mindtree.stepdefinitions.NewProduct - navigates to the site
+20:22:36.459 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on whats new
+20:25:26.690 [main] INFO  com.mindtree.stepdefinitions.NewProduct - clicked on Star and Moon Curtain LED Lights
+20:26:25.861 [main] INFO  com.mindtree.stepdefinitions.NewProduct - The price of the productRs. 1,099
+20:26:26.298 [main] INFO  com.mindtree.stepdefinitions.NewProduct - Adding to cart
+21:21:56.508 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - ----------Test Case 1----------
+21:21:56.613 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - opening the browser
+21:22:03.286 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - navigated to the site
+21:22:07.089 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - clicked on birthday gifts for kids option
+21:22:14.649 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - clicked on the harry potter
+21:22:15.219 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - adding to cart
+21:23:10.553 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 2----------
+21:23:10.553 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+21:23:15.936 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+21:23:18.589 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on corporate gifts
+21:23:23.203 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on astro stationery and phone holder
+21:23:23.737 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - First review of the product:Sent as a gift. They loved it!
+21:23:23.766 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Add To Wishlist
+21:23:23.882 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - added product to wishlist
+21:23:27.877 [main] INFO  com.mindtree.stepdefinitions.Giftcard - ----------Test Case 3----------
+21:23:27.878 [main] INFO  com.mindtree.stepdefinitions.Giftcard - opening the browser
+21:23:34.651 [main] INFO  com.mindtree.stepdefinitions.Giftcard - navigates to the site
+21:23:37.333 [main] INFO  com.mindtree.stepdefinitions.Giftcard - clicked on gift card icon
+21:23:52.065 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - ----------Test Case 1----------
+21:23:52.067 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - opening the browser
+21:23:57.701 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - navigated to the site
+21:24:03.190 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - clicked on birthday gifts for kids option
+21:24:09.546 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - clicked on the harry potter
+21:24:10.046 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - adding to cart
+21:24:11.652 [main] INFO  com.mindtree.stepdefinitions.BirthdayGifts - adding a gift note
+21:24:15.060 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - ----------Test Case 2----------
+21:24:15.060 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - opening the browser
+21:24:27.193 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - navigated to the site
+21:24:30.683 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on corporate gifts
+21:24:34.452 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - clicked on astro stationery and phone holder
+21:24:34.924 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - First review of the product:Sent as a gift. They loved it!
+21:24:34.975 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - Add To Wishlist
+21:24:35.117 [main] INFO  com.mindtree.stepdefinitions.CorporateGift - added product to wishlist
+21:24:37.847 [main] INFO  com.mindtree.stepdefinitions.Giftcard - ----------Test Case 3----------
+21:24:37.847 [main] INFO  com.mindtree.stepdefinitions.Giftcard - opening the browser
+21:24:45.709 [main] INFO  com.mindtree.stepdefinitions.Giftcard - navigates to the site
+21:24:48.539 [main] INFO  com.mindtree.stepdefinitions.Giftcard - clicked on gift card icon
+21:24:50.914 [main] INFO  com.mindtree.stepdefinitions.Giftcard - The gift card sent is worth:Rs. 40,000
+21:24:53.669 [main] INFO  com.mindtree.stepdefinitions.Jewellery - ----------Test Case 4----------
+21:24:53.669 [main] INFO  com.mindtree.stepdefinitions.Jewellery - opening the browser
+21:25:01.408 [main] INFO  com.mindtree.stepdefinitions.Jewellery - navigated to the site
+21:25:04.789 [main] INFO  com.mindtree.stepdefinitions.Jewellery - clicked on jewellery category
+21:25:06.152 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 7 products in this page which are sold out
+21:25:06.179 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+21:25:06.208 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aster Blue Topaz Earrings
+21:25:06.240 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Araliya Semi-Precious Earring Studs
+21:25:06.272 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mermaid Jewellery Holder 3D Plate
+21:25:06.304 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Harry Potter 9 ¾ Bracelet
+21:25:06.349 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Vera Amethyst Pendant With Chain
+21:25:06.381 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Watermelon Gold Plated Earrings
+21:25:06.381 [main] INFO  com.mindtree.stepdefinitions.Jewellery - There are 13 exclusive products in this page
+21:25:06.414 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aliya Semi-Precious Pendant With Silver Chain
+21:25:06.445 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Heart Semi-Precious Pendant With Silver Chain
+21:25:06.477 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Aurora Semi-Precious Stud Earrings
+21:25:06.508 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moonstone Earring Studs
+21:25:06.537 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Topaz Gemstone Bracelet
+21:25:06.572 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Kapruka Semi Precious Earrings
+21:25:06.605 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Chenju Semi-Precious Earrings
+21:25:06.647 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Luna Semi-Precious Stud Earrings
+21:25:06.679 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Mirissa Blue Semi-Precious Stud Earrings
+21:25:06.710 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Moana Gemstone Pendant with With Silver Chain
+21:25:06.741 [main] INFO  com.mindtree.stepdefinitions.Jewellery - Enchanted Gemstone Pendant With Silver Chain
